@@ -15,5 +15,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davdamujib&show_icons=true&locale=en&layout=compact" alt="davdamujib" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davdamujib&show_icons=true&locale=en" alt="davdamujib" /></p>
-
+<img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davdamujib&" alt="davdamujib" /></p>
